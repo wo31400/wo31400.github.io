@@ -9,7 +9,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string><![CDATA[http://app.xinjinsc.com:81/down/maobing_2.1.2.ipa]]></string>
+          <string><![CDATA[http://app.xinjinsc.com:81/down/maobing_2.1.4.ipa]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -33,7 +33,7 @@
         <key>bundle-identifier</key>
         <string>io.dcloud.UNIE5740D8</string>
         <key>bundle-version</key>
-        <string><![CDATA[2.1.2]]></string>
+        <string><![CDATA[2.1.4]]></string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
