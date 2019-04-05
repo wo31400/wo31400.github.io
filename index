@@ -9,7 +9,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string><![CDATA[https://down.buszy.pw/down/videobus_resigned.ipa]]></string>
+          <string><![CDATA[http://app.xinjinsc.com:81/down/maobing_2.1.2.ipa]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -17,7 +17,7 @@
           <key>needs-shine</key>
           <integer>0</integer>
           <key>url</key>
-          <string><![CDATA[https://down.buszy.pw/down/logo.png]]></string>
+          <string><![CDATA[http://app.xinjinsc.com:81/down/logo.png]]></string>
         </dict>
         <dict>
           <key>kind</key>
@@ -25,19 +25,19 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string><![CDATA[https://down.buszy.pw/down/logo.png]]></string>
+          <string><![CDATA[http://app.xinjinsc.com:81/down/logo.png]]></string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>io.dcloud.UNIFCA6DFF</string>
+        <string>io.dcloud.UNIE5740D8</string>
         <key>bundle-version</key>
-        <string><![CDATA[1.3.1]]></string>
+        <string><![CDATA[2.1.2]]></string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string><![CDATA[videobus]]></string>
+        <string><![CDATA[猫饼视频]]></string>
       </dict>
     </dict>
   </array>
